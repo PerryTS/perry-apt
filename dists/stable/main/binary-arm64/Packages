@@ -1,0 +1,17 @@
+Package: perry
+Version: 0.2.173
+Architecture: arm64
+Maintainer: Perry Team <hello@perryts.com>
+Depends: gcc | clang
+Filename: pool/main/p/perry/perry_0.2.173_arm64.deb
+Size: 70005368
+MD5sum: 808ba2206b638a5cd11b7135751764d3
+SHA1: 94bd84766c2684c1d676d0e8c69424a700621810
+SHA256: f62ea090df728fecd76bc11a8b3d4a6b486639858701a075ae9b221e369c0baa
+Section: devel
+Priority: optional
+Homepage: https://github.com/PerryTS/perry
+Description: Native TypeScript compiler
+ Perry compiles TypeScript source code directly to native
+ executables using Cranelift for code generation.
+

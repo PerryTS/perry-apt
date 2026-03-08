@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PerryTS
+Label: Perry
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Perry native TypeScript compiler
+MD5Sum:
+ e7cad130b20aeb5bc589a0fb224d060a 420 main/binary-arm64/Packages.gz
+ b0ab6b9d2697296e6c6bd8a5d54da3f8 570 main/binary-arm64/Packages
+ d9aa7eec15383ef6da6bc7c131472482 417 main/binary-amd64/Packages.gz
+ 2574383abd681a6f8906661d006e0fce 570 main/binary-amd64/Packages
+SHA256:
+ 8f983c2e664e8529b9404f493c0bd7ad3d7ade0ca6bc753d552213a52beb7077 420 main/binary-arm64/Packages.gz
+ 22b25880d0cb269d9a1b95d78f99fdceeab1280e7447186f091759fa68311455 570 main/binary-arm64/Packages
+ 2e51c089605649e169ad50e587e3f093b7bdd565f3e827b507c22a0814e2d4cf 417 main/binary-amd64/Packages.gz
+ 30f7de8471fa55d5905e59b7b0a9a0b10554536adddf93ae2e530852130fe632 570 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEwLaQhxkSxLgB8coJ3p646p10vRgFAmmtQLEACgkQ3p646p10
+vRgKbQ/8CRza9bzodxGsmm30vut+VSs6AsTK7zdGpR/s8BpM3uS2OG3cza4HV0dB
+493PDd1NrDHVp4tPhp5pLrtHVtjdYH9CsZL6799YQepfSjVRV/eh6foHCJPey94n
+Cu2CCFHEKhijixrfWlDcXUn6UnxqWy2/ahVraUs7shR52EITqdI5lDqMh6zJ6vix
+Vxwqq2+BoweRwekGKS7oWYR3oO9Tp1DBtlcUmKr6FCuaFhvx9hpmmZwfZOT8zpoj
+x8nRGlDoMHtRhCc9ud6nwiabry984uFTrhnB8U1nCYC2EwNH/YSHEpHGnCVVlcoP
+Kz5vylaeAXkL6KPuco3t/0U9hskZRRjZw45v+e2nx2sEoy5qSsFyBRbCHzXaQiPX
+7/Dd+oOEmXyn/uiSF4ZxAns1OATdMD5+6zuBSKQBGM3aiAZ9NxLPnh+4CYBc4b/v
+pZpwK6EVU30G+5Cuucb8nTj2VzvI7Fk6C04uwWqdkljYaue15u4JCIdpkFQTCJ6k
+FEOLzruFwJCym9CiSRMVpFwMSOlmL4wtCEral9PMCfveBKhqFWiMwdC1edZBmaoA
+Pol5X/fxVOUdW81dIOUQx0RwvOgTpLZTaZLixuUH1d8VpHAQsWDKyrrrcBOZgNtv
+8skgFz2UyxyKT77jfwFZjhvod6JVRl8f2rkAef+u6tVGPPzSHCo=
+=/9VN
+-----END PGP SIGNATURE-----
