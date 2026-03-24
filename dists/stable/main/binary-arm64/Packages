@@ -1,13 +1,13 @@
 Package: perry
-Version: 0.4.3
+Version: 0.4.6
 Architecture: arm64
 Maintainer: Perry Team <hello@perryts.com>
 Depends: gcc | clang
-Filename: pool/main/p/perry/perry_0.4.3_arm64.deb
-Size: 71828444
-MD5sum: 454b1a6e2957661ff9b74892af4fcb56
-SHA1: 021fa96c5a9bdd4ed6c282ad39890aad417bc46f
-SHA256: ac626fa16853426007f6ce7e4d7416a76249b298333d31093a13d17fdca17ff5
+Filename: pool/main/p/perry/perry_0.4.6_arm64.deb
+Size: 71867128
+MD5sum: 248eb8b01269fb2cfefe64975f3a2ab0
+SHA1: 72b5d009d2e98b962a93b2f016cfede6db043a3f
+SHA256: f6684c062fd113652dc6775bda47438d06a4d16171577c27ba431321bbd9c90c
 Section: devel
 Priority: optional
 Homepage: https://github.com/PerryTS/perry
