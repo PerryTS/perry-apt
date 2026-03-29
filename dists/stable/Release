@@ -6,12 +6,12 @@ Architectures: amd64 arm64
 Components: main
 Description: Perry native TypeScript compiler
 MD5Sum:
- 7c34549e85f8f5e1b64c0744b96f6343 568 main/binary-arm64/Packages
- 6bcab455fe9f7355467ebf3c5e613389 419 main/binary-arm64/Packages.gz
- c50f62087e6bbc2c00ad58a8e1159352 568 main/binary-amd64/Packages
- b1dd044e98e700340666bde794ff95bb 418 main/binary-amd64/Packages.gz
+ 2a6c1b078b86eec6e9c36e72205e87f6 568 main/binary-arm64/Packages
+ ef6c7b010877d1ff62dc715e30e4f495 417 main/binary-arm64/Packages.gz
+ 54d209039a381697c42cd5225e07872c 568 main/binary-amd64/Packages
+ 699f6a116236c157589734a28cd41238 418 main/binary-amd64/Packages.gz
 SHA256:
- 9723d6dcc5a1456cc3d486baa0ccb120d957ce97e9c75e98091b97b9fbd88b20 568 main/binary-arm64/Packages
- 584d72a63a822d356597bbdfce8a6992b53dae91a3b5fce301b59d5e1f2138be 419 main/binary-arm64/Packages.gz
- 296ef06aea37782c8bdd92be36ad6bdf9a2314dc699824f17cb2f0a50d695479 568 main/binary-amd64/Packages
- 4fb3abca073b1a9ca5ec2d3dd59cc2cd53f8ae328ec9614433f473bdd3e35fb5 418 main/binary-amd64/Packages.gz
+ 28c0cb555597f072d62e16149da7f670186075b91e44970a43ad4a473b281477 568 main/binary-arm64/Packages
+ 70ce649ff3e460683d5fa73a421bc81f08dafafeb6ea2e02e290491960bb49de 417 main/binary-arm64/Packages.gz
+ aa76d1aa799c2feaac252ed3c2d228c89fdd73253bdd86da49597e6795fa4e27 568 main/binary-amd64/Packages
+ 07b648461394f5c2ea804d6208c3eff32f6e96e25ba34e350d8d31e20cd6464d 418 main/binary-amd64/Packages.gz
