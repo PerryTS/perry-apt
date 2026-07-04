@@ -1,13 +1,13 @@
 Package: perry
-Version: 0.5.1182
+Version: 0.5.1220
 Architecture: amd64
 Maintainer: Perry Team <hello@perryts.com>
-Depends: gcc | clang, perry-runtime (= 0.5.1182), perry-stdlib (= 0.5.1182), perry-ui-gtk4 (= 0.5.1182)
-Filename: pool/main/p/perry/perry_0.5.1182_amd64.deb
-Size: 9199212
-MD5sum: c194d4bef338c45f6f3e5f0c4c9fcd04
-SHA1: 7402e59e7558e663e369b06bbdd6e88539f26a91
-SHA256: 1162e3f7e55140552c982f0042a3dc7eed40924e9b8bfe6d45447af2e1979a97
+Depends: gcc | clang, perry-runtime (= 0.5.1220), perry-stdlib (= 0.5.1220), perry-ui-gtk4 (= 0.5.1220)
+Filename: pool/main/p/perry/perry_0.5.1220_amd64.deb
+Size: 9975484
+MD5sum: 8d412342afd1e98e8c6fa69dc2f1a4a0
+SHA1: 3b8cdb00cafccf886e01edcf242bbc6f0118f146
+SHA256: 5b2504c6a1dcf262077eb0557a1a685849e0591862635aac40f2a49af0bcbd39
 Section: devel
 Priority: optional
 Homepage: https://github.com/PerryTS/perry
@@ -15,14 +15,14 @@ Description: Native TypeScript compiler
  Perry compiles TypeScript source code directly to native executables using Cranelift for code generation.
 
 Package: perry-runtime
-Version: 0.5.1182
+Version: 0.5.1220
 Architecture: amd64
 Maintainer: Perry Team <hello@perryts.com>
-Filename: pool/main/p/perry/perry-runtime_0.5.1182_amd64.deb
-Size: 20369472
-MD5sum: 11b916c2dcf428d4a074472ee88457bb
-SHA1: 4320b33421d843498347faae90ea1329dee5db6c
-SHA256: 1af1113a1183cad32cb8235b1967e5a496d169af3a6e357a295aa4fbf61ed0eb
+Filename: pool/main/p/perry/perry-runtime_0.5.1220_amd64.deb
+Size: 4934740
+MD5sum: 9fc1c79ea3678317649f0187f5aef5ce
+SHA1: 34df18ed160988041262082b4c4d2bc93a41989d
+SHA256: bd8eea02594e27dc777ebaf4e1958429c64d96142cc58529f86880263bf33eb5
 Section: devel
 Priority: optional
 Homepage: https://github.com/PerryTS/perry
@@ -30,14 +30,14 @@ Description: Perry runtime static library
  Static runtime archive required by the Perry compiler when linking generated executables.
 
 Package: perry-stdlib
-Version: 0.5.1182
+Version: 0.5.1220
 Architecture: amd64
 Maintainer: Perry Team <hello@perryts.com>
-Filename: pool/main/p/perry/perry-stdlib_0.5.1182_amd64.deb
-Size: 66566592
-MD5sum: c4b4655460908dad20bb63513f171d3e
-SHA1: 46a678a736d779dd3383458d8544e22398290109
-SHA256: 1333afbde25b479a5a8831e8065ca5bbd630410b343292b86abef007287845dc
+Filename: pool/main/p/perry/perry-stdlib_0.5.1220_amd64.deb
+Size: 15802848
+MD5sum: 7ac59eb15a34e69484739852007008de
+SHA1: 796105e3de48a9ce0a2045b08d5519719719972f
+SHA256: 5d434dfe3ec2a069d792e711a062a4aa35985380679617958ab199e4abab17fd
 Section: devel
 Priority: optional
 Homepage: https://github.com/PerryTS/perry
@@ -45,14 +45,14 @@ Description: Perry standard library static archive
  Static standard library archive required by the Perry compiler when linking generated executables.
 
 Package: perry-ui-gtk4
-Version: 0.5.1182
+Version: 0.5.1220
 Architecture: amd64
 Maintainer: Perry Team <hello@perryts.com>
-Filename: pool/main/p/perry/perry-ui-gtk4_0.5.1182_amd64.deb
-Size: 37571084
-MD5sum: 60b6fa1e040260bc57d1555c7e7dac65
-SHA1: e3b0dae5bee83b1e6b2a8bf880d1d6b764cfde31
-SHA256: 7f40479d1b4a154e01f8b2d1eecbb6295176a9878d06a56f7b437dadc6792584
+Filename: pool/main/p/perry/perry-ui-gtk4_0.5.1220_amd64.deb
+Size: 38435164
+MD5sum: ed94a8bb57c0ed531bdc65d7acb6818b
+SHA1: c779267c7f533ce44b0874ef7a2a805934e7dac5
+SHA256: ef98880006ce4c217f2a899927acf9b385946ebc51f2dbe6af61b92039fc8b21
 Section: devel
 Priority: optional
 Homepage: https://github.com/PerryTS/perry
